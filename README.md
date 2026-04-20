@@ -6,12 +6,12 @@ Repositorio que recopila diversos proyectos de *Machine Learning* aplicados a di
 
 Cada carpeta contiene un proyecto independiente con su propio código, dataset y documentación:
 
-* [Titanic Survival](./Titanic-survival)
-* [Spending Score Mall](./Spending-score-mall)
-* [Adult Census Income](./Adult-census-income)
-* [House Price](./House-price)
-* [Ventas Compras](./Ventas-compras)
-* [Wine Quality](./Wine-quality)
+* [Adult Census Income](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Adult-census-income)
+* [House Price](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/House-price)
+* [Spending Score Mall](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Spending-score-mall)
+* [Titanic Survival](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Titanic-survival)
+* [Ventas Compras](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Ventas-compras)
+* [Wine Quality](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Wine-quality)
 
 ## 🎯 Objetivo
 
