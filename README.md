@@ -8,6 +8,7 @@ Cada carpeta contiene un proyecto independiente con su propio código, dataset y
 
 * [Adult Census Income](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Adult-census-income)
 * [House Price](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/House-price)
+* [Sesgo de Género en Traducción Automática](https://github.com/danielalopezp/Machine-learning-projects/tree/main/Sesgo-genero-traduccion)
 * [Spending Score Mall](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Spending-score-mall)
 * [Titanic Survival](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Titanic-survival)
 * [Ventas Compras](https://github.com/danielalopezp/Machine-learning-projects/tree/dev/Ventas-compras)
